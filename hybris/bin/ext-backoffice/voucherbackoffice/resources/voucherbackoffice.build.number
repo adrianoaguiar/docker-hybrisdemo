@@ -1,0 +1,11 @@
+#Ant properties
+#Mon Sep 07 18:10:49 CEST 2015
+builddate=20150907 1810
+description=voucherbackoffice
+group.id=de.hybris.platform
+module.name=platform-module
+name=voucherbackoffice
+releasedate=20150907 1515
+vendor=hybris
+version=5.7.0.0-SNAPSHOT
+version.api=5.7.0

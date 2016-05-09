@@ -1,0 +1,11 @@
+#Ant properties
+#Thu Sep 10 10:35:45 CEST 2015
+builddate=20150910 1035
+description=commercefacades
+group.id=de.hybris.platform
+module.name=platform-module
+name=commercefacades
+releasedate=20150908 1158
+vendor=hybris
+version=5.7.0.0-SNAPSHOT
+version.api=5.7.0

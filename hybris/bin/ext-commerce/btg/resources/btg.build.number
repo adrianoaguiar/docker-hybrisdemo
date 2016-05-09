@@ -1,0 +1,11 @@
+#Ant properties
+#Tue Aug 18 10:01:24 CEST 2015
+builddate=20150818 1001
+description=btg
+group.id=de.hybris.platform
+module.name=platform-module
+name=btg
+releasedate=20150818 0913
+vendor=hybris
+version=5.7.0.0-SNAPSHOT
+version.api=5.7.0

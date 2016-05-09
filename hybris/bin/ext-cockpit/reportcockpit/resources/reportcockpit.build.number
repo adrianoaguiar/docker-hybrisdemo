@@ -1,0 +1,11 @@
+#Ant properties
+#Mon Aug 31 07:13:06 UTC 2015
+builddate=20150831 0713
+description=reportcockpit
+group.id=de.hybris.platform
+module.name=platform-module
+name=reportcockpit
+releasedate=20150818 0913
+vendor=hybris
+version=5.7.0.0-SNAPSHOT
+version.api=5.7.0

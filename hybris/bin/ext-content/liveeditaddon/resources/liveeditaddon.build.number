@@ -1,0 +1,11 @@
+#Ant properties
+#Fri Sep 04 16:26:53 CEST 2015
+builddate=20150904 1626
+description=liveeditaddon
+group.id=de.hybris.platform
+module.name=platform-module
+name=liveeditaddon
+releasedate=20150818 0913
+vendor=hybris
+version=5.7.0.0-SNAPSHOT
+version.api=5.7.0

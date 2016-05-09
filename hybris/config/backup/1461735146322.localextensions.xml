@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hybrisconfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="resources/schemas/extensions.xsd">
+	<extensions>
+		<!-- 
+				All extensions located in ${HYBRIS_BIN_DIR}/platform/ext are automatically loaded. 
+				More information about how to configure available extensions can be found here : https://wiki.hybris.com/x/nZVzC
+		-->
+				
+		<path dir="${HYBRIS_BIN_DIR}" />
+										
+		<!-- ext-template -->
+		
+		<extension name="mcc" />
+		<extension name="backoffice" />
+		<extension name="commercesearchbackoffice" />
+		<extension name="commerceservicesbackoffice" />
+		<extension name="solrfacetsearchbackoffice" />
+		<extension name="solrserver" />
+		<extension name="yacceleratorcockpits" />
+		<extension name="yacceleratorinitialdata" />
+		<extension name="yacceleratorfulfilmentprocess" />
+		<extension name="yacceleratorstorefront" />
+		<extension name="yaddon" />
+		<extension name="ycommercewebservices" />
+	
+		<extension name="electronicsstore" />
+		<extension name="apparelstore" />
+			
+		<extension name="liveeditaddon" />
+		<extension name="acceleratorwebservicesaddon" />
+				
+	</extensions>
+</hybrisconfig>
