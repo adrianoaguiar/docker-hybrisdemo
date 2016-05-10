@@ -13,7 +13,7 @@ RUN chmod +x /entrypoint.sh \
 	&& sleep 2 \
 	&& . ./setantenv.sh \
 	&& sleep 2 \
-	&& ant -Dmaven.update.dbdrivers=false clean all initialize
+	&& ant -Dmaven.update.dbdrivers=false clean all
 
 EXPOSE 9001 9002
 
